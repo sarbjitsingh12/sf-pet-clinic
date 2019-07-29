@@ -12,5 +12,4 @@ class SfPetClinicApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
